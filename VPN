@@ -2,16 +2,8 @@ parham
 //profile-update-interval: 24
 
 
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2Fkkhhl0gssoz7m6id%2Fzgu1lm1lcmxpbm56lmxpbms&security=tls&encryption=none&host=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#1+.%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84.%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
-vless://9ab61cc5-c1cc-449a-aa3d-c6bbedd23060@join-unlimiteddev-vpn.unlimiteddev.site:8080?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&type=ws#2+.%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84.%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
-vless://0333a2b5-d37c-47c0-aabf-9c0d4778c339@lightning6.lightningz.ir.:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray&sni=v2raya.liopiol.ir#3+.%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84.%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?path=%2F&security=tls&encryption=none&host=bBF9c21A.tECHNeTbpb.paGEs.Dev&type=ws&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev#4+.%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84.%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:443?path=TELEGRAM%40V2RAYSEVEN%40V2RAYSEVEN%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=523AfB17.IRS23.pagES.DEv&fp=randomized&type=ws&sni=523afb17.IRS23.pAgES.Dev#5+.%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84.%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
-
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:80?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&type=ws#6+.%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84.%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#7+.%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84.%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
-trojan://auto@104.26.12.54:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#8+.%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84.%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:80?path=%2F&security=none&encryption=none&type=ws#9+.%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84.%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
+warp://[2606:4700:d0::fe55:1a57:1a2f:865]:7103/?ifp=5-10#@asal.khar1
+warp://[2606:4700:d1::29a0:37b9:742a:47c8]:1070/?ifp=5-10#@asal.khar2
+warp://[2606:4700:d0::cecc:9c02:3c1:d1a4]:1701/?ifp=5-10#@asal.khar3
 
 
