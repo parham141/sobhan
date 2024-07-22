@@ -1,1 +1,2 @@
 trojan://1@18.57--2024.07.07.time:1857?security=tls&headerType=none&type=tcp&sni=fake_ip_for_sub_link#%tamam
+vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@hdfy6d3.freelines.net:443?path=%2FBc5xLs413y7DNJYMWXN7kCm3lL&security=tls&encryption=none&alpn=h2&host=hdfy6d3.freelines.net&fp=chrome&type=ws&sni=hdfy6d3.freelines.net#d3+tls_h2+WS+direct+vless
